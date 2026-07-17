@@ -27,7 +27,9 @@ I work at the intersection of enterprise systems and government digital infrastr
 ![API Integration](https://img.shields.io/badge/-API%20Integration-2E7D32?style=flat-square)
 ![Applied AI/LLM Tooling](https://img.shields.io/badge/-Applied%20AI%2FLLM%20Tooling-6A1B9A?style=flat-square)
 
-## Featured Projects
+## Featured Projects (Screen Systems Team)
+
+Selected work delivered by the Screen Systems team:
 
 **Surveillance Analytics Platform**
 Aggregates entry/exit events from camera systems and turns them into visual analytics and precise reports — helping organizations understand foot traffic and make data-driven operational decisions.
@@ -75,7 +77,9 @@ An integrated vehicle access management system for multi-branch sites, combining
 
 `الفوترة الإلكترونية` &nbsp;&nbsp; `واجهة ZATCA/فاتورة` &nbsp;&nbsp; `XML/UBL` &nbsp;&nbsp; `هندسة متعددة المستأجرين` &nbsp;&nbsp; `أنظمة ERP` &nbsp;&nbsp; `تكامل الأنظمة` &nbsp;&nbsp; `أدوات الذكاء الاصطناعي التطبيقي`
 
-## مشاريع مميزة
+## مشاريع مميزة (فريق Screen Systems)
+
+أعمال مختارة أنجزها فريق Screen Systems:
 
 **منصة تحليل المراقبة (Surveillance Analytics Platform)**
 منصة تجمع أحداث الدخول والخروج من الكاميرات وتحوّلها إلى تحليلات بصرية وتقارير دقيقة، تساعد الجهات على فهم حركة الأفراد واتخاذ قرارات تشغيلية مبنية على بيانات.
