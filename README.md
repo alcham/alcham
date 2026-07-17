@@ -3,7 +3,7 @@
 ---
 
 <a name="english"></a>
-# Hi, I'm Hassan Al-Sheikh 👋
+# Hi, I'm Hassan Al-Sheikh 
 
 Founder & Lead Applied Researcher at **Screen Systems** — a technology company based in Abha, Asir Region, Saudi Arabia.
 
