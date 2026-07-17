@@ -27,7 +27,7 @@ I work at the intersection of enterprise systems and government digital infrastr
 ![API Integration](https://img.shields.io/badge/-API%20Integration-2E7D32?style=flat-square)
 ![Applied AI/LLM Tooling](https://img.shields.io/badge/-Applied%20AI%2FLLM%20Tooling-6A1B9A?style=flat-square)
 
-## 📌 Featured Projects
+## Featured Projects
 
 **Surveillance Analytics Platform**
 Aggregates entry/exit events from camera systems and turns them into visual analytics and precise reports — helping organizations understand foot traffic and make data-driven operational decisions.
@@ -57,7 +57,7 @@ An integrated vehicle access management system for multi-branch sites, combining
 ---
 
 <a name="العربية"></a>
-# مرحباً، أنا حسن الشيخ 👋
+# مرحباً، أنا حسان محمد الشيخ
 
 المؤسس والباحث التطبيقي الرئيسي في **Screen Systems** — شركة تقنية مقرها أبها، منطقة عسير، المملكة العربية السعودية.
 
@@ -65,17 +65,17 @@ An integrated vehicle access management system for multi-branch sites, combining
 
 ---
 
-## 🚀 مجالات عملي
+## مجالات عملي
 
 - **الفوترة الإلكترونية وتكامل واجهات برمجة التطبيقات الحكومية** — تكامل هيئة الزكاة والضريبة والجمارك (ZATCA / فاتورة) المرحلة الثانية، بما يشمل إدارة شهادات CSID (الامتثال والإنتاج) وتوليد فواتير XML/UBL
 - **أنظمة ERP متعددة المستأجرين** — هندسة واستراتيجيات عزل المستأجرين لمنصات مؤسسية قابلة للتوسّع
 - **بحوث تطبيقية في الذكاء الاصطناعي** — الاستخدام الاستراتيجي لنماذج اللغة الكبيرة في دورة حياة التطوير، من التنفيذ الروتيني إلى دعم القرارات المعمارية عالية الأهمية
 
-## 🛠️ التقنيات ومجالات التركيز
+## التقنيات ومجالات التركيز
 
 `الفوترة الإلكترونية` &nbsp;&nbsp; `واجهة ZATCA/فاتورة` &nbsp;&nbsp; `XML/UBL` &nbsp;&nbsp; `هندسة متعددة المستأجرين` &nbsp;&nbsp; `أنظمة ERP` &nbsp;&nbsp; `تكامل الأنظمة` &nbsp;&nbsp; `أدوات الذكاء الاصطناعي التطبيقي`
 
-## 📌 مشاريع مميزة
+## مشاريع مميزة
 
 **منصة تحليل المراقبة (Surveillance Analytics Platform)**
 منصة تجمع أحداث الدخول والخروج من الكاميرات وتحوّلها إلى تحليلات بصرية وتقارير دقيقة، تساعد الجهات على فهم حركة الأفراد واتخاذ قرارات تشغيلية مبنية على بيانات.
@@ -88,7 +88,7 @@ An integrated vehicle access management system for multi-branch sites, combining
 
 *(مستودعات خاصة — التفاصيل متاحة عند الطلب.)*
 
-## 📫 تواصل معي
+##  تواصل معي
 
 - 🌐 الموقع الإلكتروني: [screensystems.sa](https://screensystems.sa)
 - 💼 لينكدإن: [Screen Systems](https://www.linkedin.com/in/screen-systems-2b364a413)
