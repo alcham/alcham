@@ -17,6 +17,14 @@ I work at the intersection of enterprise systems and government digital infrastr
 - **Multi-tenant ERP Systems** — architecture and tenant isolation strategies for scalable enterprise platforms
 - **Applied AI Research** — strategic use of LLMs in the development lifecycle, from routine implementation to high-stakes architectural decision support
 
+## 🧠 AI-Powered Accounting
+
+Turning ERP accounting from a passive record-keeper into an active financial partner:
+
+- **Smart Financial Monitor** — a background agent that continuously watches every client's books, catching issues (unbalanced entries, pending approvals, unusual activity) before they turn into problems — no manual review required.
+- **Chat With Your Data** — ask your accounting system a question in plain Arabic, by voice or text, and get an instant answer instead of digging through reports.
+- **AI That Understands Accounting** — from journal entries to purchase approvals, the assistant doesn't just fill out forms — it actively participates in the financial workflow.
+
 ## Tech & Focus Areas
 
 ![E-Invoicing](https://img.shields.io/badge/-E--Invoicing-0A66C2?style=flat-square)
@@ -72,6 +80,14 @@ An integrated vehicle access management system for multi-branch sites, combining
 - **الفوترة الإلكترونية وتكامل واجهات برمجة التطبيقات الحكومية** — تكامل هيئة الزكاة والضريبة والجمارك (ZATCA / فاتورة) المرحلة الثانية، بما يشمل إدارة شهادات CSID (الامتثال والإنتاج) وتوليد فواتير XML/UBL
 - **أنظمة ERP متعددة المستأجرين** — هندسة واستراتيجيات عزل المستأجرين لمنصات مؤسسية قابلة للتوسّع
 - **بحوث تطبيقية في الذكاء الاصطناعي** — الاستخدام الاستراتيجي لنماذج اللغة الكبيرة في دورة حياة التطوير، من التنفيذ الروتيني إلى دعم القرارات المعمارية عالية الأهمية
+
+## 🧠 المحاسبة بالذكاء الاصطناعي
+
+نحوّل المحاسبة في أنظمة ERP من مجرد سجل ساكن إلى شريك مالي فعّال:
+
+- **المراقب المالي الذكي** — وكيل يعمل في الخلفية يراقب حسابات كل عميل باستمرار، ويكتشف المشاكل (قيود غير متزنة، موافقات معلّقة، نشاط غير معتاد) قبل أن تتفاقم — بدون أي مراجعة يدوية.
+- **تحدث مع بياناتك** — اسأل نظامك المحاسبي بالعربية الفصحى، صوتاً أو كتابة، واحصل على إجابة فورية بدل البحث في التقارير.
+- **ذكاء اصطناعي يفهم المحاسبة** — من القيود اليومية إلى موافقات الشراء، المساعد لا يكتفي بتعبئة النماذج بل يشارك فعلياً في سير العمل المالي.
 
 ## التقنيات ومجالات التركيز
 
