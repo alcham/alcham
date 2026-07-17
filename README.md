@@ -11,13 +11,13 @@ I work at the intersection of enterprise systems and government digital infrastr
 
 ---
 
-## 🚀 What I Work On
+## What I Work On
 
 - **E-Invoicing & Government API Integration** — ZATCA / Fatoora Phase 2 integration, including CSID certificate management (Compliance & Production) and XML/UBL invoice generation
 - **Multi-tenant ERP Systems** — architecture and tenant isolation strategies for scalable enterprise platforms
 - **Applied AI Research** — strategic use of LLMs in the development lifecycle, from routine implementation to high-stakes architectural decision support
 
-## 🛠️ Tech & Focus Areas
+## Tech & Focus Areas
 
 ![E-Invoicing](https://img.shields.io/badge/-E--Invoicing-0A66C2?style=flat-square)
 ![ZATCA/Fatoora API](https://img.shields.io/badge/-ZATCA%2FFatoora%20API-0A66C2?style=flat-square)
@@ -40,7 +40,7 @@ An integrated vehicle access management system for multi-branch sites, combining
 
 *(Private repositories — details available on request.)*
 
-## 📫 Get in Touch
+## Get in Touch
 
 - 🌐 Website: [screensystems.sa](https://screensystems.sa)
 - 💼 LinkedIn: [Screen Systems](https://www.linkedin.com/in/screen-systems-2b364a413)
