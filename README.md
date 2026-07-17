@@ -7,7 +7,7 @@
 
 Founder & Lead Applied Researcher at **Screen Systems** — a technology company based in Abha, Asir Region, Saudi Arabia.
 
-I work at the intersection of enterprise systems and government digital infrastructure, with a focus on e-invoicing integration and multi-tenant ERP architecture.
+I work at the intersection of enterprise systems and government digital infrastructure, with a focus on e-invoicing integration and multi-tenant ERP architecture. I also lead applied initiatives in artificial intelligence, IoT, and industrial control systems.
 
 ---
 
@@ -71,7 +71,7 @@ An integrated vehicle access management system for multi-branch sites, combining
 
 المؤسس والباحث التطبيقي الرئيسي في **Screen Systems** — شركة تقنية مقرها أبها، منطقة عسير، المملكة العربية السعودية.
 
-أعمل في تقاطع أنظمة المؤسسات والبنية التحتية الرقمية الحكومية، مع تركيز على تكامل الفوترة الإلكترونية وهندسة أنظمة ERP متعددة المستأجرين.
+أعمل في تقاطع أنظمة المؤسسات والبنية التحتية الرقمية الحكومية، مع تركيز على تكامل الفوترة الإلكترونية وهندسة أنظمة ERP متعددة المستأجرين. كما أقود مبادرات تطبيقية في الذكاء الاصطناعي، وإنترنت الأشياء، وأنظمة التحكم الصناعي.
 
 ---
 
